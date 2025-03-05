@@ -1,0 +1,20 @@
+LLM models that we use to run localy
+
+offline models
+https://github.com/oobabooga/text-generation-webui
+1) yarn-mistral-7b-128k.Q4_K_M (gguf)
+2) llama-3-Nephilim-v3-8B-Q8_0 (gguf)
+3) DeepSeek-R1-Distill-Qwen-7B
+
+online models
+https://www.chatbase.co/
+1) GPT 3.5 (online model)
+   
+
+NLP models used 
+
+1) T5: Text-to-Text Transfer Transformer
+2) Llama (Large Language Model Meta AI)
+3) coqui_tts
+4) whisper_stt
+
